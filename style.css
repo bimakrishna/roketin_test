@@ -1,0 +1,59 @@
+.bg-light {
+    background-color:white!important;
+}
+
+nav ul { 
+    list-style-type: none; 
+}
+
+.nav-item {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-item-button {
+    display: flex;
+}
+
+.special {
+    background-color: darkred;
+    color: white;
+}
+
+.under-image {
+    padding: 100px;
+    margin: 30px;
+}
+
+.table-head {
+    background-color: darkred;
+    color: white;
+}
+
+.second-title {
+    margin-top: 70px;
+}
+
+.bg-dark {
+    background-color: darkred!important;
+}
+
+.nav-footer {
+    color: whitesmoke;
+}
+
+.col-ganjil {
+    background-color: gainsboro;
+}
+
+.text-wrapper {
+    width: 100%;
+    position: relative;
+    margin-top: -40%;
+}
+
+.text-wrapper h4 {
+    text-align: center;
+    color: white;
+    font-size: 10vw;
+}
